@@ -23,7 +23,7 @@ public class Sale {
 	private LocalDate date;
 	
 	@ManyToOne
-	@JoinColumn(name = "saller_id")
+	@JoinColumn(name = "seller_id")
 	private Seller seller;
 	
 	public Sale() {
@@ -35,7 +35,7 @@ public class Sale {
 		this.deals = deals;
 		this.amount = amount;
 		this.date = date;
-		this.seller = seller;
+		this.seller = seller; 
 	}
 
 	public Long getId() {

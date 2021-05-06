@@ -21,8 +21,6 @@ public class SaleSuccessDTO implements Serializable {
 		this.deals = deals;
 	}
 
-
-
 	public String getSellerName() {
 		return sellerName;
 	}
