@@ -6,8 +6,9 @@
 ### - Java
 ### - TypeScript
 ### - HTML
-### - CSS
+### - CSS (Bootstrap)
 ### - NPM
+### - STS Spring
 ### - Postman
 ### - PostgreSQL 12 e pgAdmin
 ### - Heroku CLI
