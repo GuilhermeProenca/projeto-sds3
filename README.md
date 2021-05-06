@@ -13,3 +13,7 @@
 ### - PostgreSQL 12 e pgAdmin
 ### - Heroku CLI
 ### - Visual Studio Code
+
+# 📚 Estrutura de camadas
+
+![camadas](https://user-images.githubusercontent.com/34319735/117346522-3dbf6d80-ae7e-11eb-8a1f-ee600c3b75a4.png)
