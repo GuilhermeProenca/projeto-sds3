@@ -25,6 +25,12 @@
 ### - Front-end: Netlify
 ### - Database: Postgresql 12
 
+# 🏠 Home Page
+![Home](https://user-images.githubusercontent.com/34319735/117542171-edffb400-afed-11eb-9083-3864b1e3fe88.png)
+
+# 🎯 Dashboard
+![Dashboard](https://user-images.githubusercontent.com/34319735/117542175-efc97780-afed-11eb-8221-592dfc09566c.png)
+
 # 🖥️ How to run the project
 
 ## Back-End
@@ -64,11 +70,3 @@ http://localhost:3000
 # 📚 Layers structure
 
 ![camadas](https://user-images.githubusercontent.com/34319735/117346522-3dbf6d80-ae7e-11eb-8a1f-ee600c3b75a4.png)
-
-# 🏠 Home Page
-![Home](https://user-images.githubusercontent.com/34319735/117542171-edffb400-afed-11eb-9083-3864b1e3fe88.png)
-
-# 🎯 Dashboard
-![Dashboard](https://user-images.githubusercontent.com/34319735/117542175-efc97780-afed-11eb-8221-592dfc09566c.png)
-
-
