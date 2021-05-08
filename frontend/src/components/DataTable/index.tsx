@@ -3,7 +3,7 @@ import Pagination from "components/Pagination";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
 import { formatLocalDate } from "utils/format";
-import { BASE_URL } from "utils/request";
+import { BASE_URL } from "utils/requests";
 
 const DataTable = () => {
 
@@ -13,7 +13,7 @@ const DataTable = () => {
         first: true,
         last: true,
         number: 0,
-        totalElements: 0,
+        totalElement: 0,
         totalPages: 0
     });
 
