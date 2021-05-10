@@ -1,6 +1,8 @@
 ![ds_dark](https://user-images.githubusercontent.com/34319735/117230545-b0373b80-adf3-11eb-98ee-4ce64ed354cd.jpg)
 
-# Spring React Week - SDS 3.0
+# Semana Spring React - SDS 3.0
+
+### Event on May 3 to 9, 2021 to create a sales dashboard.
 
 # 🛠 Technologies
 
@@ -13,6 +15,7 @@
 
 ## Front-end
 ### - JavaScript
+### - ReactJS
 ### - TypeScript
 ### - HTML
 ### - CSS
@@ -31,7 +34,17 @@
 # 🎯 Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/34319735/117542175-efc97780-afed-11eb-8221-592dfc09566c.png)
 
-# 🖥️ How to run the project
+# 📱 Responsive Application
+![Home-Responsice](https://user-images.githubusercontent.com/34319735/117591104-39f34b80-b109-11eb-8de8-aecc768511c5.png)
+![Responsive-Dashboard](https://user-images.githubusercontent.com/34319735/117591105-3bbd0f00-b109-11eb-8a56-a1032586da6e.png)
+
+# 📚 Layers Structure
+![camadas](https://user-images.githubusercontent.com/34319735/117346522-3dbf6d80-ae7e-11eb-8a1f-ee600c3b75a4.png)
+
+# ✏️ Conceptual Model
+![Conceptual-Model](https://user-images.githubusercontent.com/34319735/117591110-4677a400-b109-11eb-9ded-9d7b133d85b4.png)
+
+# 🖥️ How To Run The Project
 
 ## Back-End
 Prerequisites: Java 11
@@ -66,7 +79,4 @@ $ yarn start
 # Access localhost
 http://localhost:3000
 ```
-
-# 📚 Layers structure
-
-![camadas](https://user-images.githubusercontent.com/34319735/117346522-3dbf6d80-ae7e-11eb-8a1f-ee600c3b75a4.png)
+### Author: Guilherme Proença
